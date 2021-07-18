@@ -9,15 +9,12 @@ body {
   background-color: #BFD6D6;
   border-radius: 0;
   border: 0;
-	padding: 20px;
-	margin: 0px;
+
 }
-/* p{
-	border: 2px solid black;
-	padding: 0;
-	margin: 0;
-	width:100%;
-	height:100%;
-	font-size: 36px;
-	background-color: lightgray;
-} */
+
+#logo-img{
+  background: url('../image/logo2.jpg') no-repeat;
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 10px 0;
+}
