@@ -13,8 +13,9 @@ body {
 }
 
 #logo-img{
-  background: url('../image/logo2.jpg') no-repeat;
+  background: url('../image/logo.png') no-repeat 400px 200px;
   width: 150px;
   height: 150px;
+  background-size: contain;
   margin: 10px 15px 10px 0;
 }
